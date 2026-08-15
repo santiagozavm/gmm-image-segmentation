@@ -112,7 +112,7 @@ Las imágenes de entrada y los resultados generados se encuentran excluidos del 
 Clona el repositorio:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/santiagozavm/gmm-image-segmentation.git
 cd gmm-image-segmentation
 ```
 
