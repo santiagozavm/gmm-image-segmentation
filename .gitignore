@@ -1,0 +1,24 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Configuración de IDE
+.vscode/
+.idea/
+
+# Imágenes de entrada
+images/*
+!images/.gitkeep
+
+# Resultados generados
+results/*
+!results/.gitkeep
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
